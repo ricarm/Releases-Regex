@@ -38,12 +38,12 @@
   {
     "expression": "/*Not FR/EN*/ isAnime ? [] : negate(merge(language(streams, 'French', 'English'), regexMatched(streams, 'FR Language Tag','VFI', 'VFQ', 'VFF', 'FR MULTi', 'FR DL', 'FR Subbed', 'MTFR')), streams)",
     "score": -35000,
-    "enabled": true
+    "enabled": false
   },
   {
     "expression": "/*Not FR/JP/EN*/ isAnime ? negate(merge(language(streams, 'French', 'Japanese', 'English'), regexMatched(streams, 'FR Language Tag','VFI', 'VFQ', 'VFF', 'FR MULTi', 'FR DL', 'FR Subbed', 'MTFR')), streams) : []",
     "score": -35000,
-    "enabled": true
+    "enabled": false
   },
   {
     "expression": "/*FR 4K*/ isAnime ? [] : (originalLanguage == 'French') ? language(resolution(streams, '2160p'), 'French', 'Original') : []",

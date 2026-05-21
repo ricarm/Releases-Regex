@@ -36,12 +36,12 @@
     "enabled": true
   },
   {
-    "expression": "/*Not FR/EN*/ isAnime ? [] : negate(merge(language(streams, 'French', 'English'), regexMatched(streams, 'FR Language Tag')), streams)",
+    "expression": "/*Not FR/EN*/ isAnime ? [] : negate(merge(language(streams, 'French', 'English'), regexMatched(streams, 'FR Language Tag','VFI', 'VFQ', 'VFF', 'FR MULTi', 'FR DL', 'FR Subbed', 'MTFR')), streams)",
     "score": -35000,
     "enabled": true
   },
   {
-    "expression": "/*Not FR/JP/EN*/ isAnime ? negate(merge(language(streams, 'French', 'Japanese', 'English'), regexMatched(streams, 'FR Language Tag')), streams) : []",
+    "expression": "/*Not FR/JP/EN*/ isAnime ? negate(merge(language(streams, 'French', 'Japanese', 'English'), regexMatched(streams, 'FR Language Tag','VFI', 'VFQ', 'VFF', 'FR MULTi', 'FR DL', 'FR Subbed', 'MTFR')), streams) : []",
     "score": -35000,
     "enabled": true
   },

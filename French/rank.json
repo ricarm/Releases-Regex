@@ -1,0 +1,32 @@
+[
+    {
+      "expression": "resolution(cached(addon(streams,'Baguettio')),'1080p')",
+      "score": 1000,
+      "enabled": true
+    },
+    {
+      "expression": "resolution(cached(merge(language(streams,'French'),regexMatched(streams,'MTFR', 'FR MULTi','FR Language Tag'))),'1080p')",
+      "score": 7000,
+      "enabled": true
+    },
+    {
+      "expression": "resolution(cached(language(streams,'French')),'1080p')",
+      "score": 7000,
+      "enabled": true
+    },
+    {
+      "expression": "resolution(cached(regexMatched(streams,'MTFR', 'FR MULTi','FR Language Tag')),'1080p')",
+      "score": 2000,
+      "enabled": true
+    },
+    {
+      "expression": "cached(merge(language(streams,'French'),regexMatched(streams,'MTFR', 'FR MULTi','FR Language Tag')))",
+      "score": 1300,
+      "enabled": true
+    },
+    {
+      "expression": "merge(language(streams,'French'),regexMatched(streams,'MTFR', 'FR MULTi'))",
+      "score": 1000,
+      "enabled": true
+    }
+  ]

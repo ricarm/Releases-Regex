@@ -26,26 +26,6 @@
     "score": 0
   },
   {
-    "name": "MTFR1",
-    "pattern": "(?i)(?:\\b(?:TRUE)?FRENCH\\b|\\bVF[2FQ]\\b|[.\\-\\[\\]() ](?:4FR|A(?:Ajango|isha|L(?:COOL|FA|LDAYiN)|MB3R|m(?:en|ineCamd)|NMWR|NGERFIST007|RK01|vALoN|XLBEN|Z(?:AZE|R))|B(?:4DLY|A(?:BA|NKAi|ron|TGirl|WLS)|DHD|ENDER_37|L(?:ACK(?:ANGEL|PANTERS)|AP)|OO(?:LZ|UC|UBA)|ODIE|raD|RINK|tRs|TT(?:HD)?|UL(?:ITT|iTT)|urntodisc|YHGO)|C(?:3r153|ARAPILS|H(?:ARTAIR|ERRYcoke|OCO|ris44|risj42)|i(?:ELOS|NEMA)|LASSICS|MBHD|oRa|OUAC|RYPT0|YSTEiNE|yrill2000)|D(?:4KiD|5T0|AM|EAL|eSs|iEBEX|jona12|ooley|REAM|read|U(?:FF|PLI|SS|STiN)|WS)|E(?:\\\\.T|LCRACKITO|NJOi|SPER|UBDS|XTREME)|F(?:CK|ERVEX|iD(?:ELiO|O)|LOP|orceBleue|oX|R(?:ATERNiTY|EAMON|i(?:ENDS|ES))|ROSTIES|TMVHD|ULLSiZE|UTiL|W(?:DHD)?))(?:[.\\-\\[\\]() ].*)?",
-    "score": 0
-  },
-    {
-    "name": "MTFR2",
-    "pattern": "(?i)(?:\\b(?:TRUE)?FRENCH\\b|\\bVF[2FQ]\\b|[.\\-\\[\\]() ](?:G(?:ASMAK|HZ|H(?:oST|OULS)|iMBAP|ismo65|L(?:aDOS|iMMER|UPS)|O(?:ATLOVE|LDEN)|oldenyann|UACAMOLE|WEN)|H(?:4S5S|anami|D(?:2|KING|RA|Z)|EAVYWEIGHT|ERC|i(?:DeF|ggsBoson|RoSHiMa)|K31|om3r|YBRiS|yDe|YO)|I(?:DYSONAP|Lynx)|J(?:AQC|4CK|iH?EFF|MT|oKeR|P48|Rabbit|uRDeN|USTICELEAGUE)|K(?:7|AF|AZETV|aoru111|BNawak|ENOBi3838|enobi38|FL|LP33)|L(?:ACTEL|AOZI|AZARUS|azerTeam|DCS|EGdna|EON|eSharkoiste|i(?:BERTAD|HDL)|ITY|OOKAMI|OFiDEL|OST|OWIMDB|UCKY|YPSG)|M(?:ad\\\\.Darks27|AGiCAL|AN OF STYLE|ANGACiTY|AMA|ARBLECAKE|AX(?:AGAZ|adonf|iBENoul)|cNULTY|CSwi|ELBA|ELLOWMAN|enZo|HDgz|iND|MCLX|O(?:O|ONLY|RELAND)|rS|ULTI(?:VISION|ViSiON)|UNSTER|USTANG|UxHD))(?:[.\\-\\[\\]() ].*)?",
-    "score": 0
-  },
-    {
-    "name": "MTFR3",
-    "pattern": "(?i)(?:\\b(?:TRUE)?FRENCH\\b|\\bVF[2FQ]\\b|[.\\-\\[\\]() ](?:N(?:E(?:O(?:STARK)?|RDHD)|GRP|O(?:NE|EX|WiNHD)|RZ|TK)|O(?:BI|BSTACLE|kenEdet|KENEDET|NLY(?:MOViE)?|PTIMUM|OHLALA|VD|XTORRENT|ZEF)|P(?:4TRi0T|ARISTOCAT|ATO(?:MiEL|PESTO)|CH|EPiTE|i(?:CK(?:LES)?|NKPANTERS|KES)|KPTRS|lemo|OP|ortos|OURMOi|REM(?:S)?|ROPJOE|SY4|uNiSHeR03|unisher694|URE(?:WASTEOFBW)?)|Q(?:C(?:63)?|TZ|UALiTY|UEBEC63)|R(?:2D2X|EBiRTH|i(?:FiFi|PiT)|3MiX|OMKENT|OUGH|ough|UDE|YOTOX)|S(?:4LVE|A(?:CRiLEGE|FETY|L|NTACRUZ|SHiMi)|E(?:iGHT|L|NSei|RQPH|SKAPiLE)|F2|H(?:ADOW|amir|C23|EEEiT)|icario|ILVIODANTE|LM|lay3R|LEEPINGFOREST|N2P|ODAPOP|ozer|PINE|POiLER|TARLIGHTER|TRINGERBELL|UBZERO|UN(?:NY|RiSE)|UPPLY|yND))(?:[.\\-\\[\\]() ].*)?",
-    "score": 0
-  },
-    {
-    "name": "MTFR4",
-    "pattern": "(?i)(?:\\b(?:TRUE)?FRENCH\\b|\\bVF[2FQ]\\b|[.\\-\\[\\]() ](?:T(?:0M|3KASHi|e(?:mouche|tine)|FA|FR|H(?:ESYNDiCATE|iNK|REESOME)|i(?:MELiNE|NA)|kHD|oonsHub|orrent9|oto70300|RiCLUPRiD|RUNKDU92|SC|SuNaMi|sundere-Raws)|U(?:KD(?:HD|TV)|LSHD|LYSSE|lysse|RY|SUNSKiLLED|SURY)|V(?:ENUE|FC|FF|FQ|F2|oMiT)|W(?:Albator|ednesday29th|inks?|MTorrent)|XANTAR|Y4Y4|Z(?:E(?:KEY|ST|zLD)|i(?:NGY|RCON|T)|3US)|higgsboson|ludsfa|mHDgz|psy4|sozer|zza)(?:[.\\-\\[\\]() ].*)?",
-    "score": 0
-  },
-  {
     "name": "VFQ",
     "pattern": "/\\b(VFQ|VOQ|FRENCH[._-]?CA|CA[._-]?FR)\\b/i",
     "score": 0

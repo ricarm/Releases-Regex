@@ -6,7 +6,7 @@
   },
 
   {
-    "name": "FR Language Tag",
+    "name": "FR",
     "pattern": "/\\b(FRENCH|TRUEFRENCH|VFF|VFQ|VFI|VFB|VF2|VOF|VFO|VFi|FRA|FR)\\b/i",
     "score": 0
   },
